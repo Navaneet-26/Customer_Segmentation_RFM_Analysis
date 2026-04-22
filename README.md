@@ -48,7 +48,7 @@ This project shows how RFM segmentation helps:
 - Identify high-value and at-risk customers
 - Improve marketing strategy and targeting
 - Increase revenue through data-driven decisions
-- 📌 Dashboard Preview
+- 📌 Dashboard Preview ( For security reasons dashboard was not uploaded )
 
 <img width="1325" height="749" alt="image" src="https://github.com/user-attachments/assets/fd095876-51d5-43c6-b147-96776329fb72" />
 
