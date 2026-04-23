@@ -80,3 +80,8 @@ This project shows how RFM segmentation helps:
 ## 📌 Dashboard Preview (For security reasons dashboard was not uploaded)
 
 <img width="1325" height="749" alt="image" src="https://github.com/user-attachments/assets/fd095876-51d5-43c6-b147-96776329fb72" />
+
+<img width="1918" height="1078" alt="3  Lost_Customers" src="https://github.com/user-attachments/assets/e59f91e1-9439-44d1-be16-316af4f4a454" />
+
+<img width="1917" height="1078" alt="2  Champions and Big Spendors" src="https://github.com/user-attachments/assets/fbff44d4-93d6-4138-aafd-7b248949b56a" />
+
