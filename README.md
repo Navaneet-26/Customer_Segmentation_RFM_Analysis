@@ -1,4 +1,19 @@
 # 📊 Customer Segmentation using RFM Analysis
+
+---
+
+## 📚 Table of Contents
+
+- [📌 Problem Statement](#-problem-statement)
+- [❓ Key Business Questions](#-key-business-questions)
+- [🔍 Key Insights](#-key-insights)
+- [💡 Business Recommendations](#-business-recommendations)
+- [🛠 Tech Stack](#-tech-stack)
+- [📈 Outcome](#-outcome)
+- [📌 Dashboard Preview](#-dashboard-preview-for-security-reasons-dashboard-was-not-uploaded)
+
+---
+
 ## 📌 Problem Statement
 
 Businesses often struggle to understand customer behavior, retention, and revenue contribution across different customer groups. Without proper segmentation, companies may:
@@ -9,12 +24,16 @@ Businesses often struggle to understand customer behavior, retention, and revenu
 
 This project uses RFM (Recency, Frequency, Monetary) Analysis to segment customers and generate actionable insights for improving retention, revenue, and marketing efficiency.
 
+---
+
 ## ❓ Key Business Questions
 
 - Which customer segments drive the most revenue?
 - How many customers are at risk of churn?
 - Is revenue concentrated among a small group of customers?
 - Which segment has the highest growth potential?
+
+---
 
 ## 🔍 Key Insights
 
@@ -24,33 +43,40 @@ This project uses RFM (Recency, Frequency, Monetary) Analysis to segment custome
 - Champions segment (21 customers) is small compared to Low Value customers (62) → strong opportunity to improve loyalty programs.
 - Converting low-value customers could improve revenue by approximately 19.73%.
 
+---
+
 ## 💡 Business Recommendations
 
 - 🎯 Target At Risk customers with personalized offers → potential revenue improvement up to 6%.
 - ⚠️ Focus only 20% effort on Lost Customers, as they yield low returns.
 - 🚀 Allocate 80% effort on high-potential customers:
 
-  -  Target 12 out of 62 Low Value customers
-  -  Use personalized recommendations and discounts
-  -  Potential revenue increase: ~4.9%
-    
-🔄 Convert Potential Loyalists and Champions → Loyal Customers using loyalty programs
+  - Target 12 out of 62 Low Value customers  
+  - Use personalized recommendations and discounts  
+  - Potential revenue increase: ~4.9%  
+
+- 🔄 Convert Potential Loyalists and Champions → Loyal Customers using loyalty programs
+
+---
 
 ## 🛠 Tech Stack
-- Google Cloud Platform (BigQuery)
-- SQL
-- Power BI
+
+- Google Cloud Platform (BigQuery)  
+- SQL  
+- Power BI  
+
+---
 
 ## 📈 Outcome
 
 This project shows how RFM segmentation helps:
 
-- Identify high-value and at-risk customers
-- Improve marketing strategy and targeting
-- Increase revenue through data-driven decisions
-- 📌 Dashboard Preview ( For security reasons dashboard was not uploaded )
+- Identify high-value and at-risk customers  
+- Improve marketing strategy and targeting  
+- Increase revenue through data-driven decisions  
+
+---
+
+## 📌 Dashboard Preview (For security reasons dashboard was not uploaded)
 
 <img width="1325" height="749" alt="image" src="https://github.com/user-attachments/assets/fd095876-51d5-43c6-b147-96776329fb72" />
-
-
-
